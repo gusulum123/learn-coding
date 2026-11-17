@@ -6,3 +6,4 @@ Bahasa pemrogaman yang ingin dipelajari
 - C++
 - C
 - Java
+- MySQL
