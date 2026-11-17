@@ -1,0 +1,8 @@
+Bahasa pemrogaman yang ingin dipelajari
+- HTML
+- CSS
+- Javascript
+- Phyton
+- C++
+- C
+- Java
