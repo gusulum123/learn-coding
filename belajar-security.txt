@@ -1,0 +1,4 @@
+Materi yang akan dipelajari:
+1. Dasar Web & Jaringan
+2. Kerentanan Umum (OWASP Top 10)
+3. Autentikasi & Manajemen Sesi
