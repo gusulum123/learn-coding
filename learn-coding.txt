@@ -1,5 +1,4 @@
 Bahasa pemrogaman yang ingin dipelajari
-- HTML
 - CSS
 - Javascript
 - Phyton
@@ -7,3 +6,4 @@ Bahasa pemrogaman yang ingin dipelajari
 - C
 - Java
 - MySQL
+- Machine Learning
