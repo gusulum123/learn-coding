@@ -1,4 +1,5 @@
 Materi yang akan dipelajari:
 1. Dasar Web & Jaringan
+    Mempelajari cara perangkat berkomunikasi, protokol internet (TCP/IP, DNS, HTTP), konfigurasi router, serta firewall.
 2. Kerentanan Umum (OWASP Top 10)
 3. Autentikasi & Manajemen Sesi
