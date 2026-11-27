@@ -3,4 +3,6 @@ Materi yang akan dipelajari:
     Mempelajari cara perangkat berkomunikasi, protokol internet (TCP/IP, DNS, HTTP), konfigurasi router, serta firewall.
 2. Kerentanan Umum (OWASP Top 10)
 3. Konsep Inti & Kriptografi
+   Kriptografi adalah Ilmu menyandikan data melalui teknik enkripsi, dekripsi, dan hashing agar informasi sensitif tidak bisa dibaca oleh        pihak yang tidak berwenang.
 4. Autentikasi & Manajemen Sesi
+5. Keamanan Defensif (Blue Team)
